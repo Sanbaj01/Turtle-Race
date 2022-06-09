@@ -1,3 +1,5 @@
+I created this program on the 19th day of my 100 day Python Challenge Bootcamp.
+
 # Turtle-Race
 Turtle race is a program, different number of turtles race with each other and the user bets on it.
 
